@@ -1,0 +1,23 @@
+
+:root{
+    background-color: aquamarine;
+    background-color: aliceblue;
+}
+
+*{
+    padding: 0;
+    display: decoration-none;
+    box-sizing: border-box;
+    
+}
+.hide{ 
+    display: none;
+}  /** creamos la class hide... diapo 21  */
+
+.correct {
+    background-color: rgb(0, 255, 72);
+}
+  
+.wrong {
+    background-color: rgb(255, 0, 0);
+}
